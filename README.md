@@ -1,1 +1,4 @@
 # PI-SIM
+PI-SIM is a web-based medical information platform designed to facilitate the monitoring of post-operative wounds. Originally, the system was intended to automatically collect data through a smart dressing that measures parameters like skin conductivity, temperature, and pH. However, in the SIM version, patients manually enter the readings from the smart dressing via a dedicated webpage.
+
+A key feature of PI-SIM is its Decision Support System (DSS), which assists doctors by classifying each measurement into one of three categories: Urgent Alert, Alert, or Normal. Despite these suggestions, the final diagnosis decision is always made by the doctor. The platform accommodates continuous monitoring, allowing patients to input measurements multiple times a day over several days as part of their recovery.
